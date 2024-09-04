@@ -1,5 +1,7 @@
 # PyQt5-Camera
 
+![Application Screenshot](window.png)
+
 ## Description
 
 `PyQt5-Camera` is a Python application built with PyQt5 that provides a simple interface to capture photos using a webcam. This application allows users to start and stop the camera, take snapshots, and save them as JPEG files. It utilizes the PyQt5 multimedia framework for camera handling and image capture.
